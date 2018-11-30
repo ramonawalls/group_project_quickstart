@@ -9,9 +9,9 @@ extensions = [
     'sphinx.ext.autodoc',
 ]
 
-project = 'YOUR PROJECT NAME HERE as topic_quick_start'
-copyright = '2017, CyVerse'
-author = 'CyVerse'
+project = 'Group Project Quickstart'
+copyright = '2019, CyVerse'
+author = 'Ramona L. Walls'
 version = '1.0'
 release = '1.0'
 
