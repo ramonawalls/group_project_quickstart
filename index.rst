@@ -8,7 +8,7 @@
 |Data_Commons_logo|_
 
 Quickstart: Using CyVerse for a Shared Project 
-=============================================
+===============================================
 
 *Goal*
 -------------------
