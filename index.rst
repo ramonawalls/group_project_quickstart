@@ -8,17 +8,17 @@
 |Data_Commons_logo|_
 
 Quickstart: Using CyVerse for a Shared Project 
-===================
+=============================================
 
 *Goal*
-----
+-------------------
 
 Learn the basic steps for setting up a collaborative project using CyVerse.
 
 -----
 
 Prerequisites
--------------
+-------------------
 
 Downloads, access, and services
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -79,7 +79,7 @@ Input and example data
 ----
 
 *Sharing data with project members*
---------------
+-------------------------------------
 
 For projects that are part of a single lab, we recommend that the PI create a CyVerse account and share it with lab members. Specific sub-directories can be shared with specific lab members as desired.
 
@@ -95,13 +95,13 @@ According to the |CyVerse Data Policy|, all users receive a default allocation o
 If your project needs a shared folder for data that will be made public, you can request a |Community Released Data Folder|. Community Released folders are intended for public data, not for shared projects that are kept private.
 
 Managing data in a shared project
-~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 We strongly recommend that a single person be in charge of data management. There should also be a single person (generally the PI) who has ownership of the project folders and who sets read and write permissions for others. This ensures continuity when people move on. The PI can give ownership to a data manager for setting permissions, but should maintain their own ownership as well.
 
 The owner of a folder has the ability to delete or rename the folder and any of its contents. If project members are given write permission to the project folder, they will be able to create their own sub-folders which they will own. In this way, project members can control access to their own data.
 
 *Sharing tools and analyses with project members*
---------------
+---------------------------------------------------
 
 Projects can use CyVerse analysis platforms to develop and share analysis tools and workflows.
 
@@ -168,13 +168,17 @@ Post your question to the user forum:
    <a href="https://www.cyverse.org/data-policy" target="blank">CyVerse Data Policy</a>
    
 .. |allocation increase form|
+
 	<a href="https://user.cyverse.org/forms/2/overview" target="blank">allocation increase form</a>
 
 .. |Creating a CyVerse Account| raw:: html
+
 	<a href="https://learning.cyverse.org/projects/cyverse-account-creation-quickstart/en/latest/" target="blank">Creating a CyVerse Account</a>
 	
 .. |Community Released Data Folder| raw:: html
+
 	<a href="https://wiki.cyverse.org/wiki/display/DC/Publishing+Data+through+the+Data+Commons" target="blank">Community Released Data Folder</a>
 	
 .. |Pegasus| raw:: html
+
 	<a href="https://pegasus.isi.edu/" target="blank">Pegasus</a>
